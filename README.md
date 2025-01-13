@@ -1,4 +1,4 @@
-# Car Manuals RAG Parameter Tuning
+# RAG Parameter Tuning
 
 A tool for experimenting with RAG (Retrieval Augmented Generation) parameters on car manuals, helping find optimal chunk sizes and overlap values for document retrieval.
 
