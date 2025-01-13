@@ -1,0 +1,9 @@
+.env
+__pycache__/
+FAISS_MODELS/
+process.md
+tata_punch_manual.pdf
+who_are_my_clients.md
+using_faiss.py
+extracted_text.txt
+main.py
